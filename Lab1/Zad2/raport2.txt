@@ -1,0 +1,51 @@
+Budowanie statyczne lista
+real	1.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Dodawanie statyczne blokow do listy
+real	48.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Znajdowanie statyczne listy
+real	4.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Usuwanie i dodawanie statyczne blokow do listy
+real	53.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Usuwanie statyczne blokow z listy
+real	1.000000us
+user	0.000000us
+sys	0.000000us
+...................
+
+Tworzenie dynamicznelisty
+real	3.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Dodawanie dynamiczne blokow dolisty
+real	45.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Szukanie dynamicznelisty
+real	3.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Usuwanie i dodawanie dynamiczne blokow zlisty
+real	14.000000us
+user	0.000000us
+sys	0.000000us
+...................
+Usuwanie dynamiczne blokow zlisty
+real	1.000000us
+user	0.000000us
+sys	0.000000us
+...................
